@@ -33,16 +33,16 @@ p{
     margin-left: auto;
 }
 #chicken {
-    background-color: brown;
-    color: white;
+    background-color: lightslategray;
+    color: lightcyan;
 }
 
 #beef {
-    background-color: lightcyan;
+    background-color: lightslategray;
 }
 
 #sushi {
-    background-color: yellow;
+    background-color: lightslategray;
 }
 
 
